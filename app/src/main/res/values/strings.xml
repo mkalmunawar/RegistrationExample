@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">RegistrationExample</string>
+    <string-array name="provinces">
+        <item>Banten</item>
+        <item>DKI Jakarta</item>
+        <item>Jawa Barat</item>
+        <item>Jawa Tengah</item>
+        <item>Jawa Timur</item>
+    </string-array>
+</resources>
